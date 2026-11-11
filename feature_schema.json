@@ -1,0 +1,11 @@
+{
+    "model_name": "XGBoost",
+    "feature_columns": [
+        "heart_rate_mean",
+        "systolic_bp_mean",
+        "diastolic_bp_mean",
+        "temperature_mean",
+        "spo2_mean",
+        "respiratory_rate_mean"
+    ]
+}

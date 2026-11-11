@@ -1,0 +1,31 @@
+# Core data processing
+numpy
+pandas
+scipy
+
+# Machine Learning
+scikit-learn
+xgboost
+joblib
+imbalanced-learn
+
+# Model explainability
+shap
+
+# MLOps and experiment tracking
+mlflow
+skops
+dvc
+
+# API development
+fastapi
+uvicorn
+pydantic
+httpx
+
+# Monitoring and visualization
+matplotlib
+PyYAML
+
+# Testing
+pytest
